@@ -23,3 +23,5 @@
 - accesschk64.exe
 - accesschk.exe
 - windows-privesc-check2.exe
+- psexec64.exe from sysinternals
+- juicypotato.exe
